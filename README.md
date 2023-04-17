@@ -4,6 +4,7 @@
 ## Training Provider: OpenClassrooms
 
 In my 1st project, i used Excel to "Explore a Dataset on Energy Usage and Drew my First Conclusions".
+
 In my 2nd project, i used Tableau to "Create a Dashboard Meeting Business Requirements".   
 
 In my 3rd project, i used Python Pandas to "Assess the Quality of a Dataset for a Public Service Agency".
